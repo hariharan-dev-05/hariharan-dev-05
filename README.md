@@ -1,5 +1,5 @@
 # 💫 About Me:
-An enthusiastic Electronics and Communication Engineering student with a passion for full-stack development, specializing in the MERN stack and modern web technologies. Experienced in developing scalable web applications, collaborating on projects like Jagasree Collections Online Catalog and Quantum DotZ's website. Successfully completed a 12-week NPTEL course on the Internet of Things (IoT). Committed to continuous learning, with interests spanning artificial intelligence, cloud technologies, and embedded systems.
+I am a passionate Full-Stack Web Developer with expertise in the MERN stack, proficient in building dynamic and responsive web applications. Alongside my software development skills, I have a solid foundation in Electronics and Communication Engineering. I'm experienced in using technologies like Firebase Firestore, Cloud Firestore, and C programming. Additionally, I'm well-versed in tools like Git, GitHub, Vercel, and Visual Studio Code. With certifications in Full-Stack Web Development (Udemy) and Introduction to IoT (NPTEL), I am eager to apply my knowledge in real-world projects and contribute effectively as a fresher in the tech industry.
 
 
 ## 🌐 Socials:
