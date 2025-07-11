@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-hariharandeveloper05@gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
   </a>
   <a href="https://leetcode.com/u/hariharan-dev-05/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-hariharan-dev-05-orange?style=flat-square&logo=leetcode" alt="LeetCode">
   </a>
 </p>
 
